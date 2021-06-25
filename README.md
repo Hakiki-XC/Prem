@@ -10,6 +10,8 @@ git clone https://github.com/Hakiki-XC/Prem
 
 cd Prem
 
+git pull
+
 python run.py
 
 
